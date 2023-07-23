@@ -1,0 +1,26 @@
+.title{
+    font-size: 24px;
+    color: gray;
+    text-align: center;
+}
+.list {
+    display: flex;
+    margin: 0;
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+}
+.listItem{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.label{
+    font-size: 20px;
+    color: #FFF;
+    display: block;
+}
+.percentage{
+    font-size: 20px;
+    color: #FFF;
+}

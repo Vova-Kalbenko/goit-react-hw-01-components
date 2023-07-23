@@ -1,0 +1,49 @@
+.username {
+    font-size: 24px;
+    text-align: center;
+
+    color: black;
+}
+
+.tag {
+    font-size: 20px;
+    text-align: center;
+
+    color: gray;
+}
+
+.userWrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.location {
+    font-size: 20px;
+    text-align: center;
+    color: gray;
+}
+
+.statsList {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    margin: 0;
+    gap: 20px;
+}
+
+
+.stats {
+    color: gray;
+    font-size: 20px;
+    text-align: center;
+    display: block;
+
+}
+
+.statsNumber {
+    font-size: 20px;
+    color: black;
+}
